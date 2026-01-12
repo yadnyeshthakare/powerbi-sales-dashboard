@@ -9,6 +9,10 @@ Project type: Business intelligence and data visualization
 
 The dataset was provided as a SQL dump file. It was imported into MySQL, explored using simple SQL queries, and then connected to Power BI for transformation and visualization.  
 
+## Dashboard Preview
+
+![Sales Dashboard Preview](screenshots/sales_dashboard_preview.png)
+
 ## Workflow
 
 1.Import the SQL dump file into a MySQL database
@@ -84,3 +88,4 @@ Gmail: thakareyadnyesh@gmail.com
 ## Summary
 
 This project demonstrates a practical workflow for turning database records into business dashboards using MySQL and Power BI. It reflects typical reporting and visualization tasks expected in entry-level data analyst roles.
+
