@@ -1,14 +1,13 @@
 # Sales Performance Dashboard (Power BI & MySQL)
 
-Short description
 This project shows how to build a business dashboard using Power BI with data stored in a MySQL database. It includes basic SQL exploration, data cleaning using Power Query, and creating interactive visuals to analyze sales performance. The aim is to demonstrate how raw database data can be converted into useful business insights.
 
 ## Project overview
 
-Tools used: Power BI and MySQL
-Project type: Business intelligence and data visualization
+Tools used: Power BI and MySQL  
+Project type: Business intelligence and data visualization  
 
-The dataset was provided as a SQL dump file. It was imported into MySQL, explored using simple SQL queries, and then connected to Power BI for transformation and visualization.
+The dataset was provided as a SQL dump file. It was imported into MySQL, explored using simple SQL queries, and then connected to Power BI for transformation and visualization.  
 
 ## Workflow
 
@@ -47,12 +46,12 @@ The dataset was provided as a SQL dump file. It was imported into MySQL, explore
 
 • README file
 
-## How to run
+## How to run  
 
-1.Create or open a MySQL database and import the dump file.
-2.Open the Power BI file.
-3.Update database connection details if needed.
-4.Refresh the data to load it from MySQL.
+1.Create or open a MySQL database and import the dump file.  
+2.Open the Power BI file.  
+3.Update database connection details if needed.  
+4.Refresh the data to load it from MySQL.  
 
 ## Skills demonstrated
 
@@ -76,11 +75,11 @@ The dataset was provided as a SQL dump file. It was imported into MySQL, explore
 
 • Analyzing which products contribute most to revenue
 
-#### Author section
+## Author section
 
-Your name: Yadnyesh Thakare
-GitHub profile link
-LinkedIn profile link
+Name: Yadnyesh Thakare  
+LinkedIn: linkedin.com/in/yadnyesh-thakare/  
+Gmail: thakareyadnyesh@gmail.com  
 
 ## Summary
 
